@@ -120,3 +120,11 @@ If you want to work on the framework itself, you need to set up the following:
 Changes in /frontend will be hot-reloaded by Vite and changes in /Ivy.Samples will be hot-reloaded by Ivy.
 
 For detailed contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+#### AI Agent Marketplace Index And Router | [API Doc](https://www.deepnlp.org/doc/ai_agent_marketplace)
+[![AI Agent Marketplace and Router Badge](https://www.deepnlp.org/api/ai_agent_marketplace/svg?name=Ivy-Interactive/Ivy-Framework&badge_type=review)](https://www.deepnlp.org/store/ai-agent/ai-agent-tool/pub-Ivy-Interactive/ivy-framework)
+
+```
+curl 'https://www.deepnlp.org/api/ai_agent_marketplace/v2?id=Ivy-Interactive/Ivy-Framework'
+```
+    
